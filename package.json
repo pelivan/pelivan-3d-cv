@@ -1,0 +1,19 @@
+{
+  "name": "pelivan3d",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ivan Pelivan's CV as a Call of Duty (2003) style training mission",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "three": "^0.160.1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.3"
+  }
+}
